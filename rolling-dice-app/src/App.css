@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  background-color: none;
+  border: 2px solid black;
+  margin: auto;
+  width: 800px;
+  height: 450px;
+  margin-top: 50px;
+
+
+}
+
+.die-buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 35px;
+}
+
+.dice-button {
+  border: 1 px solid black;
+  margin: 10px;
+  font-size: 15px;
+  color: blue;
+  background-color: orangered;
+  border-radius: 10px;
+}
+
+.dice-image {
+ margin: 5px;
+ width: 75px;
+ 
+}
+
+
+
+
+
+
+
